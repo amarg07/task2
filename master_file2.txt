@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master_file1.txt  master_file2.txt
+=======
+some changes are made for add_inventory.
+>>>>>>> feature/add_inventory
