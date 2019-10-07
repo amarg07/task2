@@ -1,1 +1,1 @@
-some changes are made for add_inventory.
+some changes are made for feature and bugfix branch.
