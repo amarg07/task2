@@ -1,2 +1,2 @@
 master_file1.txt
-file is modified.
+some new changes are made for add_inventory.
