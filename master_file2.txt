@@ -1,1 +1,1 @@
-some changes are made for add_inventory.
+some new changes are made for add_inventory.
