@@ -1,2 +1,0 @@
-bugfix_file1.txt  bugfix_file3.txt   master_file1.txt
-bugfix_file2.txt  feature_file1.txt  master_file2.txt
